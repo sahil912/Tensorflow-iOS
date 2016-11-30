@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CameraExample.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Tensorflow_lib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TensorflowiOS_Lib_Aggregate.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>UniversalLib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>592FF8B418ECBD7600C164F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5EF4BC0D1DEDCEA3000F4EF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5EF4BC371DEDD297000F4EF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5EF4BC3B1DEDD2C6000F4EF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
