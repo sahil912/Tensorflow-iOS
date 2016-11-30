@@ -1,5 +1,5 @@
 # Tensorflow-iOS
-Tensorflow iOS Project: Get. Set. Go.   
+Tensorflow iOS Project:  
 
 This project is completely setup to run Tensorflow on iOS device to classify real world object against default tensorflow data model without having to configure anything.
 
